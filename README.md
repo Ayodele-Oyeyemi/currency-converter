@@ -4,8 +4,6 @@ A simple, dependency-free Python CLI tool that converts between currencies
 and looks up exchange rates, using the free [Frankfurter](https://www.frankfurter.app/)
 API (rates published by the European Central Bank).
 
-No API key, no signup, no third-party libraries required.
-
 ## Features
 
 - ✅ Convert an amount from one currency to another
